@@ -1,1 +1,1 @@
-# HowToPlanEvent
+# how-to-plan-event
